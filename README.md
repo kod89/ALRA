@@ -171,3 +171,5 @@ http://localhost:8501
 
 - 본 프로젝트는 연구지원 목적의 시연용 앱이며, 의료적 판단을 대체하지 않습니다.
 - 검색 결과 품질은 입력 질의의 구체성, PubMed 메타데이터 품질, 모델 성능에 영향을 받습니다.
+
+<img width="1867" height="885" alt="alra001" src="https://github.com/user-attachments/assets/d917baf6-3295-43f3-aa49-3975339f9ff9" />
