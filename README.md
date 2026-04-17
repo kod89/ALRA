@@ -28,7 +28,7 @@
 ## Project Structure
 
 ```
-service/
+ai-literature-research-assistant/
 ├── app/
 │   ├── main_ALRA.py
 │   ├── model_service.py
@@ -39,7 +39,6 @@ service/
 │   └── middleware.py
 ├── frontend/
 │   └── app_ALRA.py
-├── ALRA01.ipynb
 ├── requirements.txt
 └── README.md
 ```
