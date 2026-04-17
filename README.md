@@ -22,7 +22,7 @@
 
 ## Project Structure
 
-```text
+```
 service/
 ├── app/
 │   ├── main_ALRA.py
@@ -67,7 +67,7 @@ service/
 
 ### 1. 패키지 설치
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
@@ -76,13 +76,13 @@ pip install -r requirements.txt
 ### 2. FastAPI 서버 실행
 
 터미널 창 열고 (window : powershell 실행) 
-```bash
+```
 uvicorn app.main_ALRA:app --reload
 ```
 
-실행 후 Swagger UI:
+실행 후 Swagger UI(생략가능):
 
-```text
+```
 http://localhost:8000/docs
 ```
 
@@ -92,13 +92,13 @@ http://localhost:8000/docs
 
 다른 터미널에서 실행:
 
-```bash
+```
 streamlit run frontend/app_ALRA.py
 ```
 
 실행 후 브라우저 접속:
 
-```text
+```
 http://localhost:8501
 ```
 
